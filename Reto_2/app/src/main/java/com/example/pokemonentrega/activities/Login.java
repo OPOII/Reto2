@@ -32,7 +32,7 @@ public class Login extends AppCompatActivity {
         botonRegistrar=findViewById(R.id.BotonRegister);
         usuario=findViewById(R.id.TrainerID);
         contrasena=findViewById(R.id.TrainerKey);
-
+        auth.signOut();
         botonIngresar.setOnClickListener(
                 (v)->{
                     String user= usuario.getText().toString().trim();
