@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "281872438447",
+    "firebase_url": "https://prueba-appmoviles.firebaseio.com",
+    "project_id": "prueba-appmoviles",
+    "storage_bucket": "prueba-appmoviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281872438447:android:af15276dd3aa176effb05a",
+        "android_client_info": {
+          "package_name": "com.example.pokemonentrega"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281872438447-alqkb1hk824bvpii9faa30qlj7ol5maf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pokemonentrega",
+            "certificate_hash": "d2f58d16e6109504e085ac4f9720972b7ea17f0d"
+          }
+        },
+        {
+          "client_id": "281872438447-m0st9kd2a4lovuljulpdetm600tsmsoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOnnEkgewq9adPYPc1dI-b3gWYKPINMRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281872438447-m0st9kd2a4lovuljulpdetm600tsmsoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
